@@ -1,0 +1,5 @@
+"kernel","gamma","cost","accuracy"
+"linear",NA,0.01,0.208312781954887
+"linear",NA,0.1,0.208312781954887
+"linear",NA,1,0.212458646616541
+"linear",NA,10,0.280261654135338
